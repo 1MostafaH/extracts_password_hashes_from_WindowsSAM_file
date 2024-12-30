@@ -1,0 +1,2 @@
+reg save hklm\sam c:\
+reg save hklm\system c:\
