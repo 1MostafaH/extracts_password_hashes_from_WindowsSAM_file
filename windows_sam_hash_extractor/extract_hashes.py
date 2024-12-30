@@ -1,3 +1,4 @@
+# when U "pip install impacket" u will need to disable Windows Defender first
 from impacket.examples.secretsdump import LocalOperations, SAMHashes
 import io
 import sys
